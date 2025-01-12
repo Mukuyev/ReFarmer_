@@ -11,17 +11,14 @@
             "id": "84d79b2aa8fe924b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "ReFarmer_GDD/Rewards and Economy/Whole Economy.C.canvas",
-                "viewState": {
-                  "x": 42,
-                  "y": -74,
-                  "zoom": 0
-                }
+                "file": "ReFarmer_GDD/Characters/Major/Crow.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Whole Economy.C"
+              "icon": "lucide-file",
+              "title": "Crow"
             }
           }
         ]
@@ -142,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ReFarmer_GDD/Rewards and Economy/Whole Economy.C.canvas"
+                "file": "ReFarmer_GDD/Characters/Major/Crow.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Whole Economy.C"
+              "title": "Outline of Crow"
             }
           }
         ],
@@ -161,7 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ReFarmer_GDD/Rewards and Economy/Whole Economy.C.canvas",
+                "file": "ReFarmer_GDD/Characters/Major/Crow.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,7 +186,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Whole Economy.C"
+              "title": "Graph of Crow"
             }
           }
         ]
@@ -210,17 +207,23 @@
   },
   "active": "84d79b2aa8fe924b",
   "lastOpenFiles": [
-    "ReFarmer_GDD/Rewards and Economy/Whole Economy.md",
+    "ReFarmer_GDD/Overview of Theme.md",
+    "ReFarmer_GDD/Characters/Major/Crow.md",
+    "ReFarmer_GDD/Characters/Major/ReFarmer.md",
+    "ReFarmer_GDD/Characters/Major/Obsidian.md",
+    "ReFarmer_GDD/Story Overview/The Story of Game.md",
+    "ReFarmer_GDD/Items and Crafting recepie/Scythe.md",
+    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Overview.md",
+    "ReFarmer_GDD/Game Levels/Secret Village.md",
+    "ReFarmer_GDD/Game Goals/Game Goals.md",
+    "ReFarmer_GDD/Game Goals/Game Goals.C.canvas",
     "ReFarmer_GDD/Rewards and Economy/Whole Economy.C.canvas",
-    "ReFarmer_GDD/Player Inventory Tools/Overview.md",
+    "ReFarmer_GDD/Rewards and Economy/Whole Economy.md",
     "Universe/Economy/Magic Crystal.md",
     "Universe/System.md",
-    "ReFarmer_GDD/Overview of Theme.md",
     "Universe/Systems/Soul.md",
     "Universe/Systems/Physical.md",
     "Universe/Systems/Curse.md",
-    "ReFarmer_GDD/Characters/Major/ReFarmer.md",
-    "ReFarmer_GDD/Characters/Major/Obsidian.md",
     "Universe/Philosophy/Safety.md",
     "Universe/Systems/Additive Systems/Obsidian Sanctuary.md",
     "Universe/Philosophy/Home-Like.md",
@@ -239,15 +242,10 @@
     "Universe/Systems/Essential Systems' Additives",
     "Hey.canvas",
     "Universe/Systems/Additive Systems",
-    "ReFarmer_GDD/Game Levels/Secret Village.md",
     "ReFarmer_GDD/Game Levels",
     "Universe/Economy/Nibl.md",
     "Universe/Economy",
     "ReFarmer_GDD/Player Inventory Tools/Inventory",
-    "Universe/Systems/Magic.md",
-    "ReFarmer_GDD/Story Overview/The Story a Game.md",
-    "ReFarmer_GDD/Items and Crafting recepie/Scythe.md",
-    "ReFarmer_GDD/Game Goals/Game Goals.C.canvas",
     "ReFarmer_GDD/All Assets/Assets Used.canvas",
     "ReFarmer_GDD/Items and Crafting recepie/Workbench Recepie/Workbench Recepie.C.canvas",
     "ReFarmer_GDD/Items and Crafting recepie/Crafting Recepie/Crafting Recepie.C.canvas",

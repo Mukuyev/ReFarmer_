@@ -1,1 +1,1 @@
-One of the main Characters, We will trade with him a lot in [[Secret Village]] and he is also same race as we are, which [[Glasslander]] 
+One of the main Characters, We will trade with him a lot in [[Secret Village]] and he is also same race as we are, which [[Glasslander]]. This character helps us at the beginning, heals our wounds and sells the potion
