@@ -4,38 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b175caee03a9aa28",
+        "id": "8c171f811c5352d8",
         "type": "tabs",
         "children": [
           {
-            "id": "e628bfae11b5d73c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ReFarmer/Overview of Theme.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Overview of Theme"
-            }
-          },
-          {
-            "id": "88ff3e36bfdf1599",
+            "id": "84d79b2aa8fe924b",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Hey.canvas",
+                "file": "ReFarmer_GDD/Rewards and Economy/Whole Economy.C.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": 42,
+                  "y": -74,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Hey"
+              "title": "Whole Economy.C"
             }
           }
         ]
@@ -97,7 +83,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -156,10 +142,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ReFarmer/Overview of Theme.md"
+                "file": "ReFarmer_GDD/Rewards and Economy/Whole Economy.C.canvas"
               },
               "icon": "lucide-list",
-              "title": "Outline of Overview of Theme"
+              "title": "Outline of Whole Economy.C"
             }
           }
         ],
@@ -175,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ReFarmer/Overview of Theme.md",
+                "file": "ReFarmer_GDD/Rewards and Economy/Whole Economy.C.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,19 +184,19 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.3628873693012117,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Overview of Theme"
+              "title": "Graph of Whole Economy.C"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 549.5
+    "width": 502.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,15 +208,52 @@
       "graph:Open graph view": false
     }
   },
-  "active": "1cc4bae0f8b5b180",
+  "active": "84d79b2aa8fe924b",
   "lastOpenFiles": [
-    "ETU",
-    "Untitled 1.canvas",
-    "ReFarmer/Overview of Theme.md",
-    "ReFarmer.md",
+    "ReFarmer_GDD/Rewards and Economy/Whole Economy.md",
+    "ReFarmer_GDD/Rewards and Economy/Whole Economy.C.canvas",
+    "ReFarmer_GDD/Player Inventory Tools/Overview.md",
+    "Universe/Economy/Magic Crystal.md",
+    "Universe/System.md",
+    "ReFarmer_GDD/Overview of Theme.md",
+    "Universe/Systems/Soul.md",
+    "Universe/Systems/Physical.md",
+    "Universe/Systems/Curse.md",
+    "ReFarmer_GDD/Characters/Major/ReFarmer.md",
+    "ReFarmer_GDD/Characters/Major/Obsidian.md",
+    "Universe/Philosophy/Safety.md",
+    "Universe/Systems/Additive Systems/Obsidian Sanctuary.md",
+    "Universe/Philosophy/Home-Like.md",
+    "Universe/Philosophy/Power.md",
+    "Universe/Philosophy/Mystery.md",
+    "Universe/Philosophy",
+    "Universe/Systems/Essential Systems' Additives/Magic/Teleportation Magic.md",
+    "Universe/Characters/Exo Ed Ereth.md",
+    "Universe/Factions/Beasts.md",
+    "Universe/Factions/Glasslander.md",
+    "Universe/Factions/Predators.md",
+    "Universe/Systems/Essential Systems' Additives/Physical",
+    "Universe/Systems/Essential Systems' Additives/Soul",
+    "Universe/Systems/Essential Systems' Additives/Aura",
+    "Universe/Systems/Essential Systems' Additives/Magic",
+    "Universe/Systems/Essential Systems' Additives",
     "Hey.canvas",
-    "2025-01-12.md",
-    "ReFarmer",
-    "Welcome.md"
+    "Universe/Systems/Additive Systems",
+    "ReFarmer_GDD/Game Levels/Secret Village.md",
+    "ReFarmer_GDD/Game Levels",
+    "Universe/Economy/Nibl.md",
+    "Universe/Economy",
+    "ReFarmer_GDD/Player Inventory Tools/Inventory",
+    "Universe/Systems/Magic.md",
+    "ReFarmer_GDD/Story Overview/The Story a Game.md",
+    "ReFarmer_GDD/Items and Crafting recepie/Scythe.md",
+    "ReFarmer_GDD/Game Goals/Game Goals.C.canvas",
+    "ReFarmer_GDD/All Assets/Assets Used.canvas",
+    "ReFarmer_GDD/Items and Crafting recepie/Workbench Recepie/Workbench Recepie.C.canvas",
+    "ReFarmer_GDD/Items and Crafting recepie/Crafting Recepie/Crafting Recepie.C.canvas",
+    "ReFarmer_GDD/Items and Crafting recepie/Every Other Item/Every Other Item.C.canvas",
+    "ReFarmer_GDD/Items and Crafting recepie/Furnace Recepie/Furnace Recepie.C.canvas",
+    "ReFarmer_GDD/Items and Crafting recepie/Quest Items/Quest Items.C.canvas",
+    "Untitled 1.canvas"
   ]
 }

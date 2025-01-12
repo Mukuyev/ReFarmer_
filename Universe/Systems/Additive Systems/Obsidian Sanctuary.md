@@ -1,0 +1,1 @@
+The basics of this system is related with [[Teleportation Magic]]. The basic meaning of this shop name will mean "[[Safety]]", "[[Home-Like]]", "[[Power]]", "[[Mystery]]"

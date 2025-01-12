@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"5fa32bf153d20d4e","type":"file","file":"ReFarmer_GDD/Rewards and Economy/Whole Economy.md","x":-200,"y":-380,"width":620,"height":360},
+		{"id":"7ee86d0b049135b7","x":280,"y":80,"width":120,"height":60,"type":"text","text":"# Nibl\n"},
+		{"id":"3913e72ca393dda1","x":215,"y":170,"width":185,"height":60,"type":"text","text":"# Building"},
+		{"id":"c245497acd5b597b","x":-200,"y":110,"width":270,"height":60,"type":"text","text":"# Magic Crystal"}
+	],
+	"edges":[
+		{"id":"d23869494a40f7ef","fromNode":"c245497acd5b597b","fromSide":"right","toNode":"7ee86d0b049135b7","toSide":"left"},
+		{"id":"68c8f7294af6e352","fromNode":"c245497acd5b597b","fromSide":"right","toNode":"3913e72ca393dda1","toSide":"left"}
+	]
+}
