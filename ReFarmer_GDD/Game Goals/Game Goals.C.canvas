@@ -1,6 +1,20 @@
 {
 	"nodes":[
-		{"id":"541e9a1e789a5b97","x":-140,"y":-240,"width":400,"height":400,"type":"file","file":"ReFarmer_GDD/Game Goals/Game Goals.md"}
+		{"id":"541e9a1e789a5b97","type":"file","file":"ReFarmer_GDD/Game Goals/Game Goals.md","x":-140,"y":-240,"width":400,"height":420},
+		{"id":"b2eff1f7318554dd","x":-438,"y":340,"width":250,"height":60,"type":"text","text":"# Game Started \n"},
+		{"id":"efce0e4a51619092","x":-65,"y":341,"width":255,"height":60,"type":"text","text":"# Protect Flower\n\n"},
+		{"id":"8d50958120c47b54","x":-60,"y":429,"width":250,"height":60,"type":"text","text":"# Survive"},
+		{"id":"57e96d1acab6eeb1","x":-60,"y":260,"width":250,"height":60,"type":"text","text":"# Craft Unisoul"},
+		{"id":"9bc3ae21f9ece36e","x":320,"y":341,"width":80,"height":60,"type":"text","text":"# If"},
+		{"id":"e87af204ff527dd0","x":493,"y":520,"width":250,"height":93,"type":"text","text":"# Fail\nGo to the 5 wave before"},
+		{"id":"01c1dbc2cc0e087d","x":493,"y":301,"width":250,"height":140,"type":"text","text":"# Success \nCrow will come to help you"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"5f1f82d53882c408","fromNode":"b2eff1f7318554dd","fromSide":"right","toNode":"efce0e4a51619092","toSide":"left"},
+		{"id":"adca6d8a30304285","fromNode":"b2eff1f7318554dd","fromSide":"right","toNode":"8d50958120c47b54","toSide":"left"},
+		{"id":"6475aef0a4665efd","fromNode":"b2eff1f7318554dd","fromSide":"right","toNode":"57e96d1acab6eeb1","toSide":"left"},
+		{"id":"c60a18a1c7b3dbca","fromNode":"efce0e4a51619092","fromSide":"right","toNode":"9bc3ae21f9ece36e","toSide":"left"},
+		{"id":"b94239ccdeb0487f","fromNode":"9bc3ae21f9ece36e","fromSide":"right","toNode":"e87af204ff527dd0","toSide":"left"},
+		{"id":"a1c46142b75568b4","fromNode":"9bc3ae21f9ece36e","fromSide":"right","toNode":"01c1dbc2cc0e087d","toSide":"left"}
+	]
 }

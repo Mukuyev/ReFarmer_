@@ -1,0 +1,1 @@
+From [[Beasts]] race, and has very high efficiency over the [[Aura]], [[Magic]], and [[Soul]]. This character is one of [[the Emperor of The Beasts]] 

@@ -5,3 +5,5 @@ Player has got the [[Etruvera]] ("Flower of Truth") and he has got two crucial m
 1. Survive
 2. Protect [[Etruvera]]
 3. Deliver Flower to the Leader of The [[Beasts]], Exo (Full Name: "[[Exo Ed Ereth]]")
+
+The Basic structure will be shown in bottom;
