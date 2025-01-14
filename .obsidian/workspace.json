@@ -6,19 +6,39 @@
       {
         "id": "8c171f811c5352d8",
         "type": "tabs",
+        "dimension": 53.02491103202846,
         "children": [
           {
             "id": "84d79b2aa8fe924b",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Picture/Map.png"
+              },
+              "icon": "lucide-image",
+              "title": "Map"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9cdeef846d2a1651",
+        "type": "tabs",
+        "dimension": 46.97508896797153,
+        "children": [
+          {
+            "id": "fbd9d2a1b7005779",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "ReFarmer_GDD/Story Overview/The Story of Game.md",
+                "file": "ReFarmer_GDD/Characters/Major/Crow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Story of Game"
+              "title": "Crow"
             }
           }
         ]
@@ -106,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReFarmer_GDD/Story Overview/The Story of Game.md",
+                "file": "ReFarmer_GDD/Characters/Major/Crow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Story of Game"
+              "title": "Backlinks for Crow"
             }
           },
           {
@@ -157,7 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ReFarmer_GDD/Story Overview/The Story of Game.md",
+                "file": "ReFarmer_GDD/Characters/Major/Crow.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -180,19 +200,19 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.000000000000002,
+                  "scale": 0.3628873693012124,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of The Story of Game"
+              "title": "Graph of Crow"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 531.5
+    "width": 452.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,23 +224,37 @@
       "graph:Open graph view": false
     }
   },
-  "active": "84d79b2aa8fe924b",
+  "active": "fbd9d2a1b7005779",
   "lastOpenFiles": [
-    "ReFarmer_GDD/Overview of Theme.md",
-    "ReFarmer_GDD/Characters/Major/ReFarmer.md",
-    "ReFarmer_GDD/Characters/Major/Obsidian.md",
-    "ReFarmer_GDD/Characters/Major/Crow.md",
-    "ReFarmer_GDD/Game Goals/Game Goals.md",
-    "ReFarmer_GDD/Game Goals/Game Goals.C.canvas",
-    "ReFarmer_GDD/Game Levels/Secret Village.md",
-    "ReFarmer_GDD/Game Levels/Secret Village.C.canvas",
-    "Untitled.canvas",
     "Picture/Map.png",
-    "Picture",
-    "ReFarmer_GDD/Story Overview/The Story of Game.md",
-    "Universe/Systems/Magic.md",
+    "ReFarmer_GDD/Story Overview/The Story of Game (ReFarmer).C.canvas",
+    "ReFarmer_GDD/Overview of Theme.md",
+    "ReFarmer_GDD/Story Overview/The Story of Game (ReFarmer).md",
+    "ReFarmer_GDD/Game Levels/Game Levels.C.canvas",
+    "ReFarmer_GDD/Game Levels/Levels/Secret Village.md",
     "ReFarmer_GDD/All Assets/Assets Used.C.canvas",
     "ReFarmer_GDD/All Assets/Assets Used.md",
+    "ReFarmer_GDD/Game Goals/Game Goals.md",
+    "ReFarmer_GDD/Characters/Major/Crow.md",
+    "Universe/Systems/Additive Systems/Fighter Jet.md",
+    "Universe/Story/Final Mission of Beasts.md",
+    "Universe/Story/The mission with stealing the Etruvera.md",
+    "Universe/Story/Untitled.md",
+    "Gate Barrier.md",
+    "ReFarmer_GDD/Rewards and Economy/Whole Economy.C.canvas",
+    "ReFarmer_GDD/Game Levels/Levels/GrassLand.md",
+    "ReFarmer_GDD/Game Levels/Levels",
+    "Untitled.canvas",
+    "Hey.canvas",
+    "Universe/Story",
+    "Universe/Systems/Artifacts/Individual",
+    "Universe/Systems/Artifacts",
+    "Universe/Systems/Artifacts/Artifact.md",
+    "ReFarmer_GDD/Game Goals/Game Goals.C.canvas",
+    "ReFarmer_GDD/Characters/Major/ReFarmer.md",
+    "ReFarmer_GDD/Characters/Major/Obsidian.md",
+    "Picture",
+    "Universe/Systems/Magic.md",
     "Universe/Systems/Aura.md",
     "Universe/Characters/the Emperor of The Beasts.md",
     "Universe/Systems/Physical.md",
@@ -229,28 +263,14 @@
     "ReFarmer_GDD/Items and Crafting recepie/Scythe.md",
     "ReFarmer_GDD/Player Inventory Tools/Inventory",
     "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Overview.md",
-    "ReFarmer_GDD/Rewards and Economy/Whole Economy.C.canvas",
     "ReFarmer_GDD/Rewards and Economy/Whole Economy.md",
     "Universe/Economy/Magic Crystal.md",
-    "Universe/System.md",
-    "Universe/Philosophy/Safety.md",
-    "Universe/Systems/Additive Systems/Obsidian Sanctuary.md",
-    "Universe/Philosophy/Home-Like.md",
-    "Universe/Philosophy/Power.md",
-    "Universe/Philosophy/Mystery.md",
     "Universe/Philosophy",
-    "Universe/Systems/Essential Systems' Additives/Magic/Teleportation Magic.md",
     "Universe/Systems/Essential Systems' Additives/Physical",
     "Universe/Systems/Essential Systems' Additives/Soul",
     "Universe/Systems/Essential Systems' Additives/Aura",
-    "Universe/Systems/Essential Systems' Additives/Magic",
-    "Universe/Systems/Essential Systems' Additives",
-    "Hey.canvas",
-    "Universe/Systems/Additive Systems",
-    "ReFarmer_GDD/Game Levels",
     "ReFarmer_GDD/Items and Crafting recepie/Workbench Recepie/Workbench Recepie.C.canvas",
     "ReFarmer_GDD/Items and Crafting recepie/Crafting Recepie/Crafting Recepie.C.canvas",
-    "ReFarmer_GDD/Items and Crafting recepie/Every Other Item/Every Other Item.C.canvas",
-    "ReFarmer_GDD/Items and Crafting recepie/Furnace Recepie/Furnace Recepie.C.canvas"
+    "ReFarmer_GDD/Items and Crafting recepie/Every Other Item/Every Other Item.C.canvas"
   ]
 }

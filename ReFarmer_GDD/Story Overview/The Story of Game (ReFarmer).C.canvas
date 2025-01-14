@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"2ad95d32e262e25d","type":"file","file":"ReFarmer_GDD/Story Overview/The Story of Game (ReFarmer).md","x":-180,"y":-280,"width":600,"height":640},
+		{"id":"55bdba923cc9a2f3","type":"file","file":"Universe/Story/The mission with stealing the Etruvera.md","x":-180,"y":-820,"width":600,"height":400}
+	],
+	"edges":[
+		{"id":"333479f239ddd066","fromNode":"55bdba923cc9a2f3","fromSide":"bottom","toNode":"2ad95d32e262e25d","toSide":"top"}
+	]
+}

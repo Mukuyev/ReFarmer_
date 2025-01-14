@@ -1,0 +1,3 @@
+In this mission the objective is to steal [[Etruvera]] from [[Predators]]. In the before gameplay [[ReFarmer]], there is a background which Predators steals Etruvera from [[Exo Ed Ereth]], which is his [[Artifact]]. The Consequences of this leads to Exo losing most of his powers.
+
+But in the end Exo need to his Artifact again because he needs to counter attack the Predators, for [[Final Mission of Beasts]].
