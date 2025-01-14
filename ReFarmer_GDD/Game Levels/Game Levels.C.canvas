@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"72c5054901d97be2","x":-180,"y":-240,"width":560,"height":660,"type":"file","file":"ReFarmer_GDD/Game Levels/Levels/Secret Village.md"}
+		{"id":"72c5054901d97be2","type":"file","file":"ReFarmer_GDD/Game Levels/Levels/Secret Village.md","x":-180,"y":-240,"width":560,"height":660},
+		{"id":"082b5f62f29f3371","x":540,"y":280,"width":430,"height":140,"type":"text","text":"# Note #note\n\nIn main place we can place trees on that edged maintain which we can not go to there "}
 	],
 	"edges":[]
 }

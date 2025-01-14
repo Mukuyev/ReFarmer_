@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"6ad13a7e77efc92f","type":"file","file":"Picture/Skill Set Reference from Pinterest.jpg","x":-199,"y":2135,"width":804,"height":452},
+		{"id":"2c744384c4ddcbca","type":"file","file":"Picture/Skill Set Example.png","x":-624,"y":2135,"width":388,"height":453},
+		{"id":"d97fb456597a8f62","type":"file","file":"Picture/Inventory Reference - Guild Wars 2 Reference.jpeg","x":-1440,"y":2137,"width":312,"height":449},
+		{"id":"58067e6cdde53c3f","type":"file","file":"Picture/WoW Inventory Reference (All Section Included).webp","x":-1071,"y":2137,"width":291,"height":451},
+		{"id":"dd1c12b58ab2feb6","type":"file","file":"Picture/Building Reference - Fortnite.png","x":739,"y":2135,"width":709,"height":452},
+		{"id":"e3762396950fe212","type":"file","file":"Picture/Building Reference. Orcs must die 3.png","x":1489,"y":2127,"width":711,"height":460},
+		{"id":"534dae0b91d9b918","type":"file","file":"Picture/Crafting System - Creativerse Reference.jpg","x":-2960,"y":2136,"width":586,"height":450},
+		{"id":"0d35caa32397285d","type":"file","file":"Picture/Crafting System - Official New World Reference.jpeg","x":-2320,"y":2137,"width":798,"height":449},
+		{"id":"caa3937750aa1fb2","type":"file","file":"Picture/Crafting Reference - Creativerse Reference.webp","x":-3480,"y":2137,"width":432,"height":449},
+		{"id":"65c4428559ffab10","x":-1305,"y":1200,"width":400,"height":400,"type":"file","file":"ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Inventory.md"},
+		{"id":"6e6228612946570d","type":"file","file":"ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Crafting.md","x":-2741,"y":1200,"width":400,"height":400},
+		{"id":"f4047ba03331db8b","type":"text","text":"## Crafting UI Reference","x":-2708,"y":1820,"width":334,"height":50},
+		{"id":"f03a8d7ae1496014","type":"text","text":"## Inventory UI Reference","x":-1284,"y":1820,"width":360,"height":50},
+		{"id":"fb1741c190ffd247","type":"text","text":"## Skill Set UI Reference","x":-263,"y":1820,"width":327,"height":50},
+		{"id":"20ee3a4ea50c7e12","type":"file","file":"ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Skill Sets.md","x":-300,"y":1200,"width":400,"height":400},
+		{"id":"1fdfd4c96ed87ba2","type":"file","file":"ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Building.md","x":1200,"y":1200,"width":400,"height":400},
+		{"id":"c5f15e569e90efb9","type":"text","text":"## Building UI Reference","x":1238,"y":1820,"width":324,"height":50},
+		{"id":"24b1f3b720f67cbc","type":"file","file":"ReFarmer_GDD/Player Inventory Tools/Inventory Tools Overview.md","x":-830,"y":320,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"ca9446b2c8121504","fromNode":"f03a8d7ae1496014","fromSide":"bottom","toNode":"d97fb456597a8f62","toSide":"top"},
+		{"id":"a2a350c3a6fc6163","fromNode":"f03a8d7ae1496014","fromSide":"bottom","toNode":"58067e6cdde53c3f","toSide":"top"},
+		{"id":"55b6583c905a643b","fromNode":"f4047ba03331db8b","fromSide":"bottom","toNode":"534dae0b91d9b918","toSide":"top"},
+		{"id":"190dfe5631bf7951","fromNode":"f4047ba03331db8b","fromSide":"bottom","toNode":"caa3937750aa1fb2","toSide":"top"},
+		{"id":"dcbafa8a31f662ba","fromNode":"f4047ba03331db8b","fromSide":"bottom","toNode":"0d35caa32397285d","toSide":"top"},
+		{"id":"d366192d630293d9","fromNode":"c5f15e569e90efb9","fromSide":"bottom","toNode":"dd1c12b58ab2feb6","toSide":"top"},
+		{"id":"526209b81353391b","fromNode":"c5f15e569e90efb9","fromSide":"bottom","toNode":"e3762396950fe212","toSide":"top"},
+		{"id":"000e969001d9e896","fromNode":"fb1741c190ffd247","fromSide":"bottom","toNode":"2c744384c4ddcbca","toSide":"top"},
+		{"id":"ac82c306424ae5c9","fromNode":"fb1741c190ffd247","fromSide":"bottom","toNode":"6ad13a7e77efc92f","toSide":"top"},
+		{"id":"63659d73dc66c165","fromNode":"20ee3a4ea50c7e12","fromSide":"bottom","toNode":"fb1741c190ffd247","toSide":"top"},
+		{"id":"7dc4537f3e4f71ad","fromNode":"1fdfd4c96ed87ba2","fromSide":"bottom","toNode":"c5f15e569e90efb9","toSide":"top"},
+		{"id":"bf0ad53774d98822","fromNode":"6e6228612946570d","fromSide":"bottom","toNode":"f4047ba03331db8b","toSide":"top"},
+		{"id":"a0852a18e704fc93","fromNode":"65c4428559ffab10","fromSide":"bottom","toNode":"f03a8d7ae1496014","toSide":"top"},
+		{"id":"1425f4040edfffb0","fromNode":"24b1f3b720f67cbc","fromSide":"bottom","toNode":"6e6228612946570d","toSide":"top"},
+		{"id":"e1dc3a7fa368521b","fromNode":"24b1f3b720f67cbc","fromSide":"bottom","toNode":"65c4428559ffab10","toSide":"top"},
+		{"id":"ec059882a97e2060","fromNode":"24b1f3b720f67cbc","fromSide":"bottom","toNode":"20ee3a4ea50c7e12","toSide":"top"},
+		{"id":"e3cb1539d6c2d05a","fromNode":"24b1f3b720f67cbc","fromSide":"bottom","toNode":"1fdfd4c96ed87ba2","toSide":"top"}
+	]
+}

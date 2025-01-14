@@ -1,9 +1,17 @@
 {
 	"nodes":[
-		{"id":"2ad95d32e262e25d","type":"file","file":"ReFarmer_GDD/Story Overview/The Story of Game (ReFarmer).md","x":-180,"y":-280,"width":600,"height":640},
-		{"id":"55bdba923cc9a2f3","type":"file","file":"Universe/Story/The mission with stealing the Etruvera.md","x":-180,"y":-820,"width":600,"height":400}
+		{"id":"abaf2e8f504e1ed5","type":"file","file":"Picture/Shop UI - STALKER SoC Reference.jpg","x":980,"y":-547,"width":610,"height":458},
+		{"id":"8687d000622cbb9c","type":"file","file":"Picture/Shop UI - Resident Evil 4 Remake Reference.jpg","x":140,"y":-540,"width":802,"height":451},
+		{"id":"e536e386d2d8eb02","type":"text","text":"# References for Merchant UI\n\n","x":732,"y":-860,"width":420,"height":60},
+		{"id":"da66c837aceef0aa","type":"text","text":"### These two can be suitable for ReFarmer, We will focus on not showing full screen, but instead make some immersion with more in game space ","x":457,"y":140,"width":970,"height":100},
+		{"id":"55bdba923cc9a2f3","type":"file","file":"Universe/Story/The mission with stealing the Etruvera.md","x":-640,"y":-800,"width":600,"height":400},
+		{"id":"2ad95d32e262e25d","type":"file","file":"ReFarmer_GDD/Story Overview/The Story of Game (ReFarmer).md","x":-640,"y":-240,"width":600,"height":640}
 	],
 	"edges":[
-		{"id":"333479f239ddd066","fromNode":"55bdba923cc9a2f3","fromSide":"bottom","toNode":"2ad95d32e262e25d","toSide":"top"}
+		{"id":"333479f239ddd066","fromNode":"55bdba923cc9a2f3","fromSide":"bottom","toNode":"2ad95d32e262e25d","toSide":"top"},
+		{"id":"82e68c7004a8eb4f","fromNode":"e536e386d2d8eb02","fromSide":"bottom","toNode":"8687d000622cbb9c","toSide":"top"},
+		{"id":"ec686ac99aa0b958","fromNode":"e536e386d2d8eb02","fromSide":"bottom","toNode":"abaf2e8f504e1ed5","toSide":"top"},
+		{"id":"444df99f0fe1703c","fromNode":"8687d000622cbb9c","fromSide":"bottom","toNode":"da66c837aceef0aa","toSide":"top"},
+		{"id":"cdc46f4b92381d55","fromNode":"abaf2e8f504e1ed5","fromSide":"bottom","toNode":"da66c837aceef0aa","toSide":"top"}
 	]
 }
