@@ -3,10 +3,18 @@
 		{"id":"7ee86d0b049135b7","type":"text","text":"# Nibl\n","x":280,"y":80,"width":120,"height":60},
 		{"id":"5fa32bf153d20d4e","type":"file","file":"ReFarmer_GDD/Rewards and Economy/Whole Economy.md","x":-200,"y":-420,"width":600,"height":380},
 		{"id":"c245497acd5b597b","type":"text","text":"# Magic Crystal","x":-200,"y":140,"width":270,"height":60},
-		{"id":"3913e72ca393dda1","type":"text","text":"# Building","x":215,"y":200,"width":185,"height":60}
+		{"id":"3913e72ca393dda1","type":"text","text":"# Building","x":215,"y":200,"width":185,"height":60},
+		{"id":"8921839501d098ce","type":"file","file":"Picture/Shop UI - STALKER SoC Reference.jpg","x":1400,"y":-427,"width":610,"height":458},
+		{"id":"a258021a38cb9bf1","type":"file","file":"Picture/Shop UI - Resident Evil 4 Remake Reference.jpg","x":560,"y":-420,"width":802,"height":451},
+		{"id":"fb6b7fa86546d4b7","type":"text","text":"# References for Merchant UI\n\n","x":1152,"y":-740,"width":420,"height":60},
+		{"id":"37a9c55025fb9c57","type":"text","text":"### These two can be suitable for ReFarmer, We will focus on not showing full screen, but instead make some immersion with more in game space ","x":877,"y":260,"width":970,"height":100}
 	],
 	"edges":[
 		{"id":"d23869494a40f7ef","fromNode":"c245497acd5b597b","fromSide":"right","toNode":"7ee86d0b049135b7","toSide":"left"},
-		{"id":"68c8f7294af6e352","fromNode":"c245497acd5b597b","fromSide":"right","toNode":"3913e72ca393dda1","toSide":"left"}
+		{"id":"68c8f7294af6e352","fromNode":"c245497acd5b597b","fromSide":"right","toNode":"3913e72ca393dda1","toSide":"left"},
+		{"id":"fa55c4c0a0a36f87","fromNode":"8921839501d098ce","fromSide":"bottom","toNode":"37a9c55025fb9c57","toSide":"top"},
+		{"id":"26f05cdbd1b3f793","fromNode":"fb6b7fa86546d4b7","fromSide":"bottom","toNode":"8921839501d098ce","toSide":"top"},
+		{"id":"02669efcb9ecd4fe","fromNode":"a258021a38cb9bf1","fromSide":"bottom","toNode":"37a9c55025fb9c57","toSide":"top"},
+		{"id":"4f3abd78d77a01e3","fromNode":"fb6b7fa86546d4b7","fromSide":"bottom","toNode":"a258021a38cb9bf1","toSide":"top"}
 	]
 }

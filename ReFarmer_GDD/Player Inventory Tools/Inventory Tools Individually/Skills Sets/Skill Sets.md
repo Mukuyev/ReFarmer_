@@ -1,0 +1,3 @@
+In terms of Skills we will have got 4 types of skills related with magic. We can only use 2 skills in gameplay session (Limit), and we will give them chance to select which things to choose. 
+
+And these has got 3 levels. We will start with always one, and these skills can be upgraded with [[Magic Crystal]] (Tier 4). When game starts, Player can not use skills because [[ReFarmer]] cursed, after removing 5% of the curse inside of us, player will be able to use skills again, but he needs to unlock this skills again with the h

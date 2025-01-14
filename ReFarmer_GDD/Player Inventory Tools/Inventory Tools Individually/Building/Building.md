@@ -1,0 +1,1 @@
+We will use building mode for defending the base. Like in Balloon Tower Defense 6, but in specific size like in Orcs Must Die 3. We can also make some other type of systems like in Fortnite for fun (Optional).

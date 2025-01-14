@@ -8,13 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fbd9d2a1b7005779",
+            "id": "0bdf535ca00305d9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "ReFarmer_GDD/Player Inventory Tools/Inventory Tools.C.canvas",
+                "viewState": {
+                  "x": 16.190622881621124,
+                  "y": 2218.0974836474443,
+                  "zoom": -0.6570078822682139
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Inventory Tools.C"
+            }
+          },
+          {
+            "id": "c20faab49f1f7df9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A_Term and Findable/Tags.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tags"
             }
           }
         ]
@@ -102,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ReFarmer_GDD/Player Inventory Tools/Inventory Tools.C.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Inventory Tools.C"
             }
           },
           {
@@ -133,9 +155,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "ReFarmer_GDD/Player Inventory Tools/Inventory Tools.C.canvas"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Inventory Tools.C"
             }
           }
         ],
@@ -151,6 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "ReFarmer_GDD/Player Inventory Tools/Inventory Tools.C.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,19 +198,19 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3628873693012124,
+                  "scale": 0.25883865621816327,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Inventory Tools.C"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 452.5
+    "width": 390.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,64 +219,65 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fbd9d2a1b7005779",
+  "active": "0bdf535ca00305d9",
   "lastOpenFiles": [
+    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Inventory/Inventory Items.md",
+    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools.C.canvas",
+    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Overview.md",
+    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Crafting/Crafting Recipe Crafting Table.md",
+    "A_Term and Findable/Tags.md",
+    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Crafting/Crafting Recipe Workbench.md",
+    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Crafting/Crafting Recipe Furnace.md",
+    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Crafting/Crafting.md",
+    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Skills Sets/Skills and their upgrades.md",
+    "A_Term and Findable",
+    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Building/Building.md",
+    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Building/Building Recepie.md",
+    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Inventory/Inventory.md",
+    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Skills Sets",
+    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Inventory",
+    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Building",
+    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Crafting/Inventory",
+    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Crafting",
+    "Universe/Systems/Additive Systems/Seal of Dead.md",
+    "Universe/Systems/Additive Systems/Gate Barrier.md",
+    "Excalidraw/Drawing 2025-01-14 18.30.16.excalidrawdsadasd.md",
+    "Excalidraw/Drawing 2025-01-14 18.29.55.excalidraw.md",
+    "Excalidraw",
+    "dsadsadsadsadas.md",
+    "ReFarmer_GDD/Characters/Major/ReFarmer.md",
+    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Skills Sets/Skill Sets.md",
+    "ReFarmer_GDD/Game Levels/Game Levels.C.canvas",
+    "ReFarmer_GDD/Rewards and Economy/Whole Economy.C.canvas",
+    "ReFarmer_GDD/Story Overview/The Story of Game (ReFarmer).C.canvas",
     "Universe/Systems/Aura.md",
     "Picture/Crafting Reference - Creativerse Reference.webp",
     "2025-01-14.md",
-    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools.C.canvas",
-    "Gate Barrier.md",
     "ReFarmer_GDD/Story Overview/The Story of Game (ReFarmer).md",
-    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Inventory.md",
-    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Crafting.md",
     "ReFarmer_GDD/Player Inventory Tools/Inventory/Untitled",
-    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Overview.md",
-    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Building.md",
-    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Skill Sets.md",
     "Picture/Skill Set Example.png",
     "Picture/Skill Set Reference from Pinterest.jpg",
     "Picture/Building Reference - Fortnite.png",
     "Picture/Building Reference. Orcs must die 3.png",
-    "ReFarmer_GDD/Game Levels/Game Levels.C.canvas",
     "Picture/Crafting System - Creativerse Reference.jpg",
     "Picture/Crafting System - Official New World Reference.jpeg",
     "Picture/WoW Inventory Reference (All Section Included).webp",
     "Picture/Inventory Reference - Guild Wars 2 Reference.jpeg",
-    "ReFarmer_GDD/Story Overview/The Story of Game (ReFarmer).C.canvas",
     "ReFarmer_GDD/Overview of Theme.md",
     "ReFarmer_GDD/Characters/Major/Crow.md",
     "Picture/Shop UI - STALKER SoC Reference.jpg",
     "ReFarmer_GDD/Game Levels/Levels/Secret Village.md",
     "ReFarmer_GDD/All Assets/Assets Used.C.canvas",
     "ReFarmer_GDD/All Assets/Assets Used.md",
-    "ReFarmer_GDD/Game Goals/Game Goals.md",
-    "Universe/Systems/Additive Systems/Fighter Jet.md",
-    "Universe/Story/Final Mission of Beasts.md",
-    "Universe/Story/The mission with stealing the Etruvera.md",
-    "Universe/Story/Untitled.md",
-    "ReFarmer_GDD/Rewards and Economy/Whole Economy.C.canvas",
-    "ReFarmer_GDD/Game Levels/Levels/GrassLand.md",
     "ReFarmer_GDD/Game Levels/Levels",
     "Untitled.canvas",
     "Hey.canvas",
     "Universe/Story",
-    "Universe/Systems/Artifacts/Individual",
-    "Universe/Systems/Artifacts",
-    "Universe/Systems/Artifacts/Artifact.md",
     "ReFarmer_GDD/Game Goals/Game Goals.C.canvas",
-    "ReFarmer_GDD/Characters/Major/ReFarmer.md",
-    "ReFarmer_GDD/Characters/Major/Obsidian.md",
-    "Picture",
-    "Universe/Systems/Magic.md",
-    "Universe/Characters/the Emperor of The Beasts.md",
-    "Universe/Systems/Physical.md",
-    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually",
-    "Universe/Philosophy",
-    "Universe/Systems/Essential Systems' Additives/Physical",
-    "Universe/Systems/Essential Systems' Additives/Soul",
     "ReFarmer_GDD/Items and Crafting recepie/Workbench Recepie/Workbench Recepie.C.canvas",
     "ReFarmer_GDD/Items and Crafting recepie/Crafting Recepie/Crafting Recepie.C.canvas"
   ]
