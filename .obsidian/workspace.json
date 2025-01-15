@@ -4,38 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9cdeef846d2a1651",
+        "id": "1a58d3fa988c78a2",
         "type": "tabs",
         "children": [
           {
-            "id": "0bdf535ca00305d9",
+            "id": "199ec865fb1c0a78",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "ReFarmer_GDD/Player Inventory Tools/Inventory Tools.C.canvas",
-                "viewState": {
-                  "x": 1561.1918090577892,
-                  "y": -1930.3971729443947,
-                  "zoom": -2.579545907943136
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Inventory Tools.C"
-            }
-          },
-          {
-            "id": "c20faab49f1f7df9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A_Term and Findable/Tags.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tags"
+              "title": "New tab"
             }
           }
         ]
@@ -155,11 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ReFarmer_GDD/Player Inventory Tools/Inventory Tools.C.canvas"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Inventory Tools.C"
+              "title": "Outline"
             }
           }
         ],
@@ -175,7 +152,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ReFarmer_GDD/Player Inventory Tools/Inventory Tools.C.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,12 +174,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.25883865621816327,
+                  "scale": 0.5087618855792603,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Inventory Tools.C"
+              "title": "Graph view"
             }
           }
         ]
@@ -223,16 +199,52 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "0bdf535ca00305d9",
+  "active": "199ec865fb1c0a78",
   "lastOpenFiles": [
+    "ReFarmer_GDD/Story Overview/The Story of Game (ReFarmer).md",
+    "ReFarmer_GDD/Story Overview/The Story of Game (ReFarmer).C.canvas",
+    "ReFarmer_GDD/Rewards and Economy/Whole Economy.md",
+    "To Do list.md",
+    "ReFarmer_GDD/HUD system/HUD,UI Elements.C.canvas",
+    "ReFarmer_GDD/HUD system/UI Elements.md",
+    "ReFarmer_GDD/HUD system/HUD.md",
+    "ReFarmer_GDD/Game Controls/Game Controls.C.canvas",
+    "ReFarmer_GDD/Game Controls/Game Controls.md",
+    "ReFarmer_GDD/Characters/Non-Active/NPC (ReFarmer).md",
+    "ReFarmer_GDD/Rewards and Economy/Whole Economy.C.canvas",
+    "ReFarmer_GDD/Characters/Major/Obsidian.md",
+    "ReFarmer_GDD/Characters/Major/ReFarmer.md",
+    "ReFarmer_GDD/Characters/Major/Crow.md",
+    "ReFarmer_GDD/All Assets/Assets Used.C.canvas",
+    "ReFarmer_GDD/All Assets/Assets Used.md",
+    "ReFarmer_GDD/Game Levels/Game Levels.C.canvas",
+    "Picture/Level/Map Main, Grassland.png",
+    "Universe/System.md",
+    "ReFarmer_GDD/Game Goals/Game Goals.C.canvas",
+    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools.C.canvas",
+    "Picture/Level/Map.png",
+    "ReFarmer_GDD/Game Levels/Place",
+    "ReFarmer_GDD/Game Levels/Place/Dark Forest.md",
+    "Picture/Level/Scheme_DarkForest.png",
+    "Picture/Level/Scheme_DarkForestExp.png",
+    "ReFarmer_GDD/Game Levels/Levels/Dark Cave.md",
+    "Picture/Level/Scheme_SecretVillage.png",
+    "Picture/Level/Scheme_SecretVillageExp.png",
+    "Picture/Level/Scheme_MainExp.png",
+    "Picture/Level/Scheme_Main Place.png",
+    "Picture/Level/Scheme_DarkCaveExp.png",
+    "Picture/Level/Scheme_DarkCave.png",
+    "Picture/Skills",
+    "Picture/Inventory",
+    "Picture/Level",
+    "Picture/Shop",
+    "Picture/Crafting",
+    "Picture/Buildings/Untitled",
+    "Picture/Buildings",
     "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Building/Building Recepie.md",
     "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Building/Building.md",
-    "ReFarmer_GDD/Game Levels/Game Levels.C.canvas",
     "ReFarmer_GDD/Game Levels/Levels/Secret Village.md",
-    "ReFarmer_GDD/Game Levels/Levels/GrassLand.md",
-    "Picture/Schm_Clr_LvlSecVil.png",
-    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools.C.canvas",
-    "Picture/Sheme_Color_LvLSecVil.png",
+    "ReFarmer_GDD/Game Levels/Levels/Grassland (Main).md",
     "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Inventory/Inventory Items.md",
     "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Overview.md",
     "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Crafting/Crafting Recipe Crafting Table.md",
@@ -240,45 +252,9 @@
     "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Crafting/Crafting Recipe Workbench.md",
     "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Crafting/Crafting Recipe Furnace.md",
     "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Crafting/Crafting.md",
-    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Skills Sets/Skills and their upgrades.md",
     "A_Term and Findable",
-    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Inventory/Inventory.md",
     "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Skills Sets",
-    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Inventory",
-    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Building",
-    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Crafting/Inventory",
-    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Crafting",
-    "Universe/Systems/Additive Systems/Seal of Dead.md",
-    "Universe/Systems/Additive Systems/Gate Barrier.md",
-    "Excalidraw/Drawing 2025-01-14 18.30.16.excalidrawdsadasd.md",
-    "Excalidraw/Drawing 2025-01-14 18.29.55.excalidraw.md",
-    "Excalidraw",
-    "dsadsadsadsadas.md",
-    "ReFarmer_GDD/Characters/Major/ReFarmer.md",
-    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Skills Sets/Skill Sets.md",
-    "ReFarmer_GDD/Rewards and Economy/Whole Economy.C.canvas",
-    "ReFarmer_GDD/Story Overview/The Story of Game (ReFarmer).C.canvas",
-    "Universe/Systems/Aura.md",
-    "Picture/Crafting Reference - Creativerse Reference.webp",
-    "2025-01-14.md",
-    "ReFarmer_GDD/Story Overview/The Story of Game (ReFarmer).md",
-    "ReFarmer_GDD/Player Inventory Tools/Inventory/Untitled",
-    "Picture/Skill Set Example.png",
-    "Picture/Skill Set Reference from Pinterest.jpg",
-    "Picture/Building Reference - Fortnite.png",
-    "Picture/Building Reference. Orcs must die 3.png",
-    "Picture/Crafting System - Creativerse Reference.jpg",
-    "Picture/Crafting System - Official New World Reference.jpeg",
-    "Picture/WoW Inventory Reference (All Section Included).webp",
-    "ReFarmer_GDD/Overview of Theme.md",
-    "ReFarmer_GDD/Characters/Major/Crow.md",
-    "ReFarmer_GDD/All Assets/Assets Used.C.canvas",
-    "ReFarmer_GDD/Game Levels/Levels",
     "Untitled.canvas",
-    "Hey.canvas",
-    "Universe/Story",
-    "ReFarmer_GDD/Game Goals/Game Goals.C.canvas",
-    "ReFarmer_GDD/Items and Crafting recepie/Workbench Recepie/Workbench Recepie.C.canvas",
-    "ReFarmer_GDD/Items and Crafting recepie/Crafting Recepie/Crafting Recepie.C.canvas"
+    "Hey.canvas"
   ]
 }

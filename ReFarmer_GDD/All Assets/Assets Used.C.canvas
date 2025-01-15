@@ -1,9 +1,6 @@
 {
 	"nodes":[
-		{"id":"d5f3aa2790ac0cd3","x":-280,"y":-400,"width":360,"height":340,"type":"text","text":""},
-		{"id":"a0e5d3651eb577dc","x":100,"y":-400,"width":360,"height":340,"type":"text","text":""},
-		{"id":"6144c54bbd877589","x":-280,"y":-40,"width":360,"height":340,"type":"text","text":""},
-		{"id":"aff2e83fe7146119","x":100,"y":-40,"width":360,"height":340,"type":"text","text":""}
+		{"id":"fba62907dbb1e691","x":-91,"y":-283,"width":400,"height":400,"type":"file","file":"ReFarmer_GDD/All Assets/Assets Used.md"}
 	],
 	"edges":[]
 }
