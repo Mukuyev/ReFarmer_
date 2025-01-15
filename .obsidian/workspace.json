@@ -11,10 +11,16 @@
             "id": "199ec865fb1c0a78",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "kanban",
+              "state": {
+                "file": "To Do list.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "To Do list"
             }
           }
         ]
@@ -134,9 +140,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "To Do list.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of To Do list"
             }
           }
         ],
@@ -152,6 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "To Do list.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -179,7 +188,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of To Do list"
             }
           }
         ]
