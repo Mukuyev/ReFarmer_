@@ -1,1 +1,1 @@
-Grassland will be our main place for 
+Grassland will be our main place for defending [[Etruvera]] and all [[Building]]s will placed in this location, Monsters will come from different angles and we will try to survive and defend the Flower, as from the [[Game Goals]] also we know that we need to craft [[Unisoul]] for ally call

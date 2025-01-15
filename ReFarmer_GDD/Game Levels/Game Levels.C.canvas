@@ -1,7 +1,11 @@
 {
 	"nodes":[
-		{"id":"72c5054901d97be2","type":"file","file":"ReFarmer_GDD/Game Levels/Levels/Secret Village.md","x":-180,"y":-240,"width":560,"height":660},
-		{"id":"082b5f62f29f3371","x":540,"y":280,"width":430,"height":140,"type":"text","text":"# Note #note\n\nIn main place we can place trees on that edged maintain which we can not go to there "}
+		{"id":"5898ecf90c107eaa","type":"group","x":-400,"y":-360,"width":1400,"height":1520,"label":"Secret Village"},
+		{"id":"82382352f9d29cc5","type":"file","file":"Picture/Schm_Clr_LvlSecVil.png","x":460,"y":520,"width":430,"height":532},
+		{"id":"4a5279cad3cf1b0d","type":"file","file":"Picture/Sheme_Color_LvLSecVil.png","x":-277,"y":520,"width":657,"height":532},
+		{"id":"72c5054901d97be2","type":"file","file":"ReFarmer_GDD/Game Levels/Levels/Secret Village.md","x":-277,"y":-240,"width":560,"height":660},
+		{"id":"e78560b67f92de51","x":1360,"y":-240,"width":400,"height":260,"type":"file","file":"ReFarmer_GDD/Game Levels/Levels/GrassLand.md"},
+		{"id":"082b5f62f29f3371","type":"text","text":"# Note #note\n\nIn main place we can place trees on that edged maintain which we can not go to there ","x":1880,"y":-240,"width":430,"height":140}
 	],
 	"edges":[]
 }
