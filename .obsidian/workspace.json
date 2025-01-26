@@ -11,16 +11,17 @@
             "id": "199ec865fb1c0a78",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "canvas",
               "state": {
-                "file": "To Do list.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
+                "file": "ReFarmer_GDD/Game Goals/Game Goals.C.canvas",
+                "viewState": {
+                  "x": 152.5,
+                  "y": 186.5,
+                  "zoom": -0.6958383466921719
                 }
               },
-              "icon": "lucide-trello",
-              "title": "To Do list"
+              "icon": "lucide-layout-dashboard",
+              "title": "Game Goals.C"
             }
           }
         ]
@@ -141,10 +142,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Do list.md"
+                "file": "ReFarmer_GDD/Game Goals/Game Goals.C.canvas"
               },
               "icon": "lucide-list",
-              "title": "Outline of To Do list"
+              "title": "Outline of Game Goals.C"
             }
           }
         ],
@@ -160,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "To Do list.md",
+                "file": "ReFarmer_GDD/Game Goals/Game Goals.C.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,7 +189,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of To Do list"
+              "title": "Graph of Game Goals.C"
             }
           }
         ]
@@ -210,27 +211,27 @@
   },
   "active": "199ec865fb1c0a78",
   "lastOpenFiles": [
+    "ReFarmer_GDD/Game Levels/Game Levels.C.canvas",
+    "ReFarmer_GDD/HUD system/UI Elements.md",
+    "ReFarmer_GDD/HUD system/HUD,UI Elements.C.canvas",
+    "ReFarmer_GDD/All Assets/Assets Used.C.canvas",
+    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools.C.canvas",
+    "ReFarmer_GDD/HUD system/HUD.md",
+    "ReFarmer_GDD/Rewards and Economy/Whole Economy.C.canvas",
+    "To Do list.md",
     "ReFarmer_GDD/Story Overview/The Story of Game (ReFarmer).md",
     "ReFarmer_GDD/Story Overview/The Story of Game (ReFarmer).C.canvas",
     "ReFarmer_GDD/Rewards and Economy/Whole Economy.md",
-    "To Do list.md",
-    "ReFarmer_GDD/HUD system/HUD,UI Elements.C.canvas",
-    "ReFarmer_GDD/HUD system/UI Elements.md",
-    "ReFarmer_GDD/HUD system/HUD.md",
     "ReFarmer_GDD/Game Controls/Game Controls.C.canvas",
     "ReFarmer_GDD/Game Controls/Game Controls.md",
     "ReFarmer_GDD/Characters/Non-Active/NPC (ReFarmer).md",
-    "ReFarmer_GDD/Rewards and Economy/Whole Economy.C.canvas",
     "ReFarmer_GDD/Characters/Major/Obsidian.md",
     "ReFarmer_GDD/Characters/Major/ReFarmer.md",
     "ReFarmer_GDD/Characters/Major/Crow.md",
-    "ReFarmer_GDD/All Assets/Assets Used.C.canvas",
     "ReFarmer_GDD/All Assets/Assets Used.md",
-    "ReFarmer_GDD/Game Levels/Game Levels.C.canvas",
     "Picture/Level/Map Main, Grassland.png",
     "Universe/System.md",
     "ReFarmer_GDD/Game Goals/Game Goals.C.canvas",
-    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools.C.canvas",
     "Picture/Level/Map.png",
     "ReFarmer_GDD/Game Levels/Place",
     "ReFarmer_GDD/Game Levels/Place/Dark Forest.md",
