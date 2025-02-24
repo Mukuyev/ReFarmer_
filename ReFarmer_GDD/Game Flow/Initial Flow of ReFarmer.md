@@ -1,0 +1,1 @@
+We will try to defend our base with the settled time limit (Wave Limit). The game elements as we know is Building, Crafting and Farming.

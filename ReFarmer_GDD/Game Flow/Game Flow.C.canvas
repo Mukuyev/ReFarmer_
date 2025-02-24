@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"0cfbef049a951f06","type":"file","file":"ReFarmer_GDD/Game Flow/Initial Flow of ReFarmer.md","x":-240,"y":-180,"width":400,"height":220},
+		{"id":"492536c311917aa4","type":"file","file":"ReFarmer_GDD/Game Flow/Game Flow.md","x":-240,"y":-380,"width":400,"height":140},
+		{"id":"e5d326f517f3b705","type":"file","file":"ReFarmer_GDD/Game Flow/Wave System.md","x":60,"y":120,"width":400,"height":280},
+		{"id":"3be61515be162fd9","type":"file","file":"Wondering In Lands of ReFarmer.md","x":-560,"y":120,"width":400,"height":280}
+	],
+	"edges":[
+		{"id":"65582306a857a506","fromNode":"3be61515be162fd9","fromSide":"bottom","toNode":"e5d326f517f3b705","toSide":"top"},
+		{"id":"47e63ba722adf896","fromNode":"e5d326f517f3b705","fromSide":"bottom","toNode":"3be61515be162fd9","toSide":"top"}
+	]
+}

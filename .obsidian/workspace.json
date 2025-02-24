@@ -4,24 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "1a58d3fa988c78a2",
+        "id": "0d6a0dcdd25253ff",
         "type": "tabs",
         "children": [
           {
-            "id": "199ec865fb1c0a78",
+            "id": "e8fce36c4e26e433",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "kanban",
               "state": {
-                "file": "ReFarmer_GDD/Game Goals/Game Goals.C.canvas",
-                "viewState": {
-                  "x": 152.5,
-                  "y": 186.5,
-                  "zoom": -0.6958383466921719
+                "file": "ReFarmer_GDD/All Assets/Assets.K.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false
+                  ]
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Game Goals.C"
+              "icon": "lucide-trello",
+              "title": "Assets.K"
             }
           }
         ]
@@ -43,7 +44,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -93,110 +95,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 238.5
   },
   "right": {
     "id": "789bcee9c8345159",
     "type": "split",
-    "children": [
-      {
-        "id": "35fc8a7e6c79fbd1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cc963742edfd09fd",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "ReFarmer_GDD/Player Inventory Tools/Inventory Tools.C.canvas",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Inventory Tools.C"
-            }
-          },
-          {
-            "id": "412afd48c370cd1a",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "ReFarmer_GDD/Story Overview/The Story of Game.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from The Story of Game"
-            }
-          },
-          {
-            "id": "1cc4bae0f8b5b180",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "ReFarmer_GDD/Game Goals/Game Goals.C.canvas"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Game Goals.C"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "ec3ed33685e7700f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d2eee6eed22763ff",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "ReFarmer_GDD/Game Goals/Game Goals.C.canvas",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.5087618855792603,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Game Goals.C"
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
-    "width": 390.5
+    "width": 349.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,20 +113,40 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "199ec865fb1c0a78",
+  "active": "e8fce36c4e26e433",
   "lastOpenFiles": [
+    "ReFarmer_GDD/AI/AI Bug, Worklist.K.md",
+    "ReFarmer_GDD/All Assets/Assets.K.md",
     "ReFarmer_GDD/Game Levels/Game Levels.C.canvas",
-    "ReFarmer_GDD/HUD system/UI Elements.md",
-    "ReFarmer_GDD/HUD system/HUD,UI Elements.C.canvas",
+    "ReFarmer_GDD/AI/Basic AI Template (AI).md",
     "ReFarmer_GDD/All Assets/Assets Used.C.canvas",
+    "ReFarmer_GDD/Game Flow/Game Flow.C.canvas",
+    "ReFarmer_GDD/All Assets/Assets Used.md",
     "ReFarmer_GDD/Player Inventory Tools/Inventory Tools.C.canvas",
+    "Wondering In Lands of ReFarmer.md",
+    "ReFarmer_GDD/Game Flow/Wave System.md",
+    "ReFarmer_GDD/Story Overview/The Story of Game (ReFarmer).md",
+    "Universe/Characters/the Emperor of The Beasts.md",
+    "Universe/Characters/Exo Ed Ereth.md",
+    "Canvas.canvas",
+    "To Do list.md",
+    "ReFarmer_GDD/Game Flow/Initial Flow of ReFarmer.md",
+    "ReFarmer_GDD/Game Flow/Game Flow.md",
+    "ReFarmer_GDD/HUD system/HUD,UI Elements.C.canvas",
+    "ReFarmer_GDD/AI/Tower Attacker/Bear.md",
+    "ReFarmer_GDD/Game Flow",
+    "ReFarmer_GDD/AI/Unique Place AI",
+    "ReFarmer_GDD/AI/Tower Attacker",
+    "ReFarmer_GDD/AI/Melee",
+    "ReFarmer_GDD/AI",
+    "ReFarmer_GDD/Game Goals/Game Goals.C.canvas",
+    "ReFarmer_GDD/HUD system/UI Elements.md",
     "ReFarmer_GDD/HUD system/HUD.md",
     "ReFarmer_GDD/Rewards and Economy/Whole Economy.C.canvas",
-    "To Do list.md",
-    "ReFarmer_GDD/Story Overview/The Story of Game (ReFarmer).md",
     "ReFarmer_GDD/Story Overview/The Story of Game (ReFarmer).C.canvas",
     "ReFarmer_GDD/Rewards and Economy/Whole Economy.md",
     "ReFarmer_GDD/Game Controls/Game Controls.C.canvas",
@@ -228,10 +155,8 @@
     "ReFarmer_GDD/Characters/Major/Obsidian.md",
     "ReFarmer_GDD/Characters/Major/ReFarmer.md",
     "ReFarmer_GDD/Characters/Major/Crow.md",
-    "ReFarmer_GDD/All Assets/Assets Used.md",
     "Picture/Level/Map Main, Grassland.png",
     "Universe/System.md",
-    "ReFarmer_GDD/Game Goals/Game Goals.C.canvas",
     "Picture/Level/Map.png",
     "ReFarmer_GDD/Game Levels/Place",
     "ReFarmer_GDD/Game Levels/Place/Dark Forest.md",
@@ -248,23 +173,6 @@
     "Picture/Inventory",
     "Picture/Level",
     "Picture/Shop",
-    "Picture/Crafting",
-    "Picture/Buildings/Untitled",
-    "Picture/Buildings",
-    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Building/Building Recepie.md",
-    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Building/Building.md",
-    "ReFarmer_GDD/Game Levels/Levels/Secret Village.md",
-    "ReFarmer_GDD/Game Levels/Levels/Grassland (Main).md",
-    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Inventory/Inventory Items.md",
-    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Overview.md",
-    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Crafting/Crafting Recipe Crafting Table.md",
-    "A_Term and Findable/Tags.md",
-    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Crafting/Crafting Recipe Workbench.md",
-    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Crafting/Crafting Recipe Furnace.md",
-    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Crafting/Crafting.md",
-    "A_Term and Findable",
-    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Skills Sets",
-    "Untitled.canvas",
-    "Hey.canvas"
+    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Building/Building Recepie.md"
   ]
 }

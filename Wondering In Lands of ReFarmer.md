@@ -1,0 +1,1 @@
+Before each wave we can wonder around, and this process that may help us on collecting resources that we can use in crafting buildings and farming purposes
