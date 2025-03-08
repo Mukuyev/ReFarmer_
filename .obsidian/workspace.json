@@ -11,18 +11,17 @@
             "id": "e8fce36c4e26e433",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "canvas",
               "state": {
-                "file": "ReFarmer_GDD/All Assets/Assets.K.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
+                "file": "ReFarmer_GDD/Game Levels/Game Levels.C.canvas",
+                "viewState": {
+                  "x": 2474.7182656416776,
+                  "y": -4671.226491788638,
+                  "zoom": -0.8039631585754949
                 }
               },
-              "icon": "lucide-trello",
-              "title": "Assets.K"
+              "icon": "lucide-layout-dashboard",
+              "title": "Game Levels.C"
             }
           }
         ]
@@ -100,7 +99,62 @@
   "right": {
     "id": "789bcee9c8345159",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "036933303c00967d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41a8055ae0468f89",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ReFarmer_GDD/Game Levels/Game Levels.C.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Game Levels.C"
+            }
+          },
+          {
+            "id": "ea43bdf3051d01ee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ReFarmer_GDD/Game Levels/Game Levels.C.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Game Levels.C"
+            }
+          },
+          {
+            "id": "2ee84f1282d72c22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ReFarmer_GDD/Game Levels/Game Levels.C.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Game Levels.C"
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 349.5,
     "collapsed": true
@@ -119,14 +173,23 @@
   },
   "active": "e8fce36c4e26e433",
   "lastOpenFiles": [
-    "ReFarmer_GDD/AI/AI Bug, Worklist.K.md",
+    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools.C.canvas",
+    "Picture/Buildings/TowerMeshRef.jpg",
+    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Overview.md",
+    "Picture/Buildings/TowerUIRef2.png",
+    "Picture/Buildings/TowerUIRef.png",
+    "Picture/Buildings/TowerMeshRef2.jpeg",
+    "Picture/Buildings/TowerMeshRef4.png",
+    "Picture/Buildings/TowerMeshRef3.jpg",
+    "Picture/Buildings/Towers.png",
+    "A_Term and Findable/Tags.md",
     "ReFarmer_GDD/All Assets/Assets.K.md",
+    "ReFarmer_GDD/AI/AI Bug, Worklist.K.md",
     "ReFarmer_GDD/Game Levels/Game Levels.C.canvas",
     "ReFarmer_GDD/AI/Basic AI Template (AI).md",
     "ReFarmer_GDD/All Assets/Assets Used.C.canvas",
     "ReFarmer_GDD/Game Flow/Game Flow.C.canvas",
     "ReFarmer_GDD/All Assets/Assets Used.md",
-    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools.C.canvas",
     "Wondering In Lands of ReFarmer.md",
     "ReFarmer_GDD/Game Flow/Wave System.md",
     "ReFarmer_GDD/Story Overview/The Story of Game (ReFarmer).md",
@@ -161,18 +224,9 @@
     "ReFarmer_GDD/Game Levels/Place",
     "ReFarmer_GDD/Game Levels/Place/Dark Forest.md",
     "Picture/Level/Scheme_DarkForest.png",
-    "Picture/Level/Scheme_DarkForestExp.png",
-    "ReFarmer_GDD/Game Levels/Levels/Dark Cave.md",
-    "Picture/Level/Scheme_SecretVillage.png",
-    "Picture/Level/Scheme_SecretVillageExp.png",
-    "Picture/Level/Scheme_MainExp.png",
-    "Picture/Level/Scheme_Main Place.png",
-    "Picture/Level/Scheme_DarkCaveExp.png",
-    "Picture/Level/Scheme_DarkCave.png",
     "Picture/Skills",
     "Picture/Inventory",
     "Picture/Level",
-    "Picture/Shop",
-    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Building/Building Recepie.md"
+    "Picture/Shop"
   ]
 }
