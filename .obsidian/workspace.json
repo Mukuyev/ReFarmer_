@@ -11,17 +11,37 @@
             "id": "e8fce36c4e26e433",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules of Working/Naming of Assets.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Naming of Assets"
+            }
+          }
+        ]
+      },
+      {
+        "id": "78014f87afeddfea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b11e8f8c431677f",
+            "type": "leaf",
+            "state": {
               "type": "canvas",
               "state": {
-                "file": "ReFarmer_GDD/Game Levels/Game Levels.C.canvas",
+                "file": "Rules of Working/Folder Rules.canvas",
                 "viewState": {
-                  "x": 2474.7182656416776,
-                  "y": -4671.226491788638,
-                  "zoom": -0.8039631585754949
+                  "x": 3431.2535922864668,
+                  "y": 201.72033656671658,
+                  "zoom": -1
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Game Levels.C"
+              "title": "Folder Rules"
             }
           }
         ]
@@ -94,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 200
   },
   "right": {
     "id": "789bcee9c8345159",
@@ -171,8 +191,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e8fce36c4e26e433",
+  "active": "0b11e8f8c431677f",
   "lastOpenFiles": [
+    "Rules of Working/Naming of Assets.md",
+    "Rules of Working/Folder Rules.canvas",
+    "ReFarmer_GDD/Game Levels/Game Levels.C.canvas",
+    "Rules of Working",
     "ReFarmer_GDD/Player Inventory Tools/Inventory Tools.C.canvas",
     "Picture/Buildings/TowerMeshRef.jpg",
     "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Overview.md",
@@ -185,7 +209,6 @@
     "A_Term and Findable/Tags.md",
     "ReFarmer_GDD/All Assets/Assets.K.md",
     "ReFarmer_GDD/AI/AI Bug, Worklist.K.md",
-    "ReFarmer_GDD/Game Levels/Game Levels.C.canvas",
     "ReFarmer_GDD/AI/Basic AI Template (AI).md",
     "ReFarmer_GDD/All Assets/Assets Used.C.canvas",
     "ReFarmer_GDD/Game Flow/Game Flow.C.canvas",
@@ -212,7 +235,6 @@
     "ReFarmer_GDD/Rewards and Economy/Whole Economy.C.canvas",
     "ReFarmer_GDD/Story Overview/The Story of Game (ReFarmer).C.canvas",
     "ReFarmer_GDD/Rewards and Economy/Whole Economy.md",
-    "ReFarmer_GDD/Game Controls/Game Controls.C.canvas",
     "ReFarmer_GDD/Game Controls/Game Controls.md",
     "ReFarmer_GDD/Characters/Non-Active/NPC (ReFarmer).md",
     "ReFarmer_GDD/Characters/Major/Obsidian.md",
@@ -222,11 +244,9 @@
     "Universe/System.md",
     "Picture/Level/Map.png",
     "ReFarmer_GDD/Game Levels/Place",
-    "ReFarmer_GDD/Game Levels/Place/Dark Forest.md",
     "Picture/Level/Scheme_DarkForest.png",
     "Picture/Skills",
     "Picture/Inventory",
-    "Picture/Level",
-    "Picture/Shop"
+    "Picture/Level"
   ]
 }
