@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"fba62907dbb1e691","x":-91,"y":-283,"width":400,"height":400,"type":"file","file":"ReFarmer_GDD/All Assets/Assets Used.md"}
+		{"id":"fba62907dbb1e691","type":"file","file":"ReFarmer_GDD/All Assets/Assets Used.md","x":-91,"y":-283,"width":571,"height":583}
 	],
 	"edges":[]
 }

@@ -1,1 +1,0 @@
-A person who wants to be a leader [[Beasts]] 

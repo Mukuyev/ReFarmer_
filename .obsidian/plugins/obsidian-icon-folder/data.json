@@ -31,10 +31,10 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Universe/Characters/Exo Ed Ereth.md": {
+  "ReFarmer_GDD/All Assets/Assets.K.md": "🎗",
+  "ReFarmer_GDD/AI/AI Bug, Worklist.K.md": "🎗",
+  "Universe/Characters/The Known One.md": {
     "iconName": "LiActivity",
     "iconColor": "#138b77"
-  },
-  "ReFarmer_GDD/All Assets/Assets.K.md": "🎗",
-  "ReFarmer_GDD/AI/AI Bug, Worklist.K.md": "🎗"
+  }
 }
