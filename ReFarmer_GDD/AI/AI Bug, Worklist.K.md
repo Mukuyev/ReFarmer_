@@ -13,7 +13,7 @@ kanban-plugin: board
 - [ ] May affect the optimization, Maybe AI Move to works in the background, check it if it works in the background or not, if works disable it after their health is 0
 - [ ] NavMesh needs to be fixed; Problem is AIs are stopping weirdly
 - [ ] Need to send data of spawned and dead from spawner to main place to our spawner, Basically finishing our object polling system
-- [ ] When are we using the change location of a mesh when set visibility to false, meshes are overlapping and goes to the different places of map which means it is a bug
+- [x] When are we using the change location of a mesh when set visibility to false, meshes are overlapping and goes to the different places of map which means it is a bug
 - [ ] Maybe?
 	AIs Spawns at the same location
 - [x] Implementing different collision for AI and Towers

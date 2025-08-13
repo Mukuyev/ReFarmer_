@@ -4,44 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0d6a0dcdd25253ff",
+        "id": "b29090a85c6b0b6e",
         "type": "tabs",
         "children": [
           {
-            "id": "e8fce36c4e26e433",
+            "id": "39055c4ae1d5970f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules of Working/Naming of Assets.md",
+                "file": "ReFarmer_GDD/Game Flow/Game Flow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Naming of Assets"
-            }
-          }
-        ]
-      },
-      {
-        "id": "78014f87afeddfea",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0b11e8f8c431677f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Rules of Working/Folder Rules.canvas",
-                "viewState": {
-                  "x": 3431.2535922864668,
-                  "y": 201.72033656671658,
-                  "zoom": -1
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Folder Rules"
+              "title": "Game Flow"
             }
           }
         ]
@@ -114,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 277.5
   },
   "right": {
     "id": "789bcee9c8345159",
@@ -191,60 +168,60 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0b11e8f8c431677f",
+  "active": "39055c4ae1d5970f",
   "lastOpenFiles": [
-    "Rules of Working/Naming of Assets.md",
-    "Rules of Working/Folder Rules.canvas",
+    "ReFarmer_GDD/Characters/Non-Active/NPC (ReFarmer).md",
+    "ReFarmer_GDD/Game Flow/Game Flow.md",
+    "ReFarmer_GDD/Game Flow/Game Flow.C.canvas",
+    "ReFarmer_GDD/Game Controls/Game Controls.C.canvas",
+    "ReFarmer_GDD/Game Controls/Game Controls.md",
+    "ReFarmer_GDD/Characters/Major/Crow.md",
+    "ReFarmer_GDD/Characters/Major/Obsidian.md",
+    "ReFarmer_GDD/Characters/Major/ReFarmer.md",
+    "ReFarmer_GDD/Game Goals/Game Goals.md",
     "ReFarmer_GDD/Game Levels/Game Levels.C.canvas",
+    "ReFarmer_GDD/AI/AI Overall lookout.md",
+    "Universe/Systems/Additive Systems/Gate Barrier.md",
+    "Universe/Systems/Additive Systems/Obsidian Sanctuary.md",
+    "ReFarmer_GDD/All Assets/Assets Used.md",
+    "ReFarmer_GDD/All Assets/Assets Used.C.canvas",
+    "Picture/Skills/Skill Set Reference from Pinterest.jpg",
+    "ReFarmer_GDD/AI/Basic AI Template (AI).md",
+    "ReFarmer_GDD/AI/AI Bug, Worklist.K.md",
+    "Universe/Systems/Additive Systems/Seal of Dead.md",
+    "Universe/Story/The mission with stealing the Etruvera.md",
+    "Universe/Story/Final Mission of Beasts.md",
+    "ReFarmer_GDD/AI/Tower Attacker/Bear.md",
+    "Picture/Skills/Skill Set Example.png",
+    "Picture/Shop/Shop UI - STALKER SoC Reference.jpg",
+    "Picture/Shop/Shop UI - Resident Evil 4 Remake Reference.jpg",
+    "Picture/Level/Scheme_DarkCave.png",
+    "Picture/Level/Map Main, Grassland.png",
+    "Picture/Inventory/WoW Inventory Reference (All Section Included).webp",
+    "Picture/Inventory/Inventory Reference - Guild Wars 2 Reference.jpeg",
+    "Picture/Crafting/Crafting System - Official New World Reference.jpeg",
+    "Picture/Crafting/Crafting System - Creativerse Reference.jpg",
+    "A_Term and Findable/Tags.md",
+    "Rules of Working/Folder Rules.canvas",
+    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Crafting/Crafting Recipe Crafting Table.md",
+    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Crafting/Crafting Recipe Furnace.md",
+    "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Individually/Crafting/Crafting Recipe Workbench.md",
+    "ReFarmer_GDD/HUD system/HUD,UI Elements.C.canvas",
+    "Rules of Working/Naming of Assets.md",
     "Rules of Working",
     "ReFarmer_GDD/Player Inventory Tools/Inventory Tools.C.canvas",
-    "Picture/Buildings/TowerMeshRef.jpg",
     "ReFarmer_GDD/Player Inventory Tools/Inventory Tools Overview.md",
-    "Picture/Buildings/TowerUIRef2.png",
-    "Picture/Buildings/TowerUIRef.png",
-    "Picture/Buildings/TowerMeshRef2.jpeg",
-    "Picture/Buildings/TowerMeshRef4.png",
-    "Picture/Buildings/TowerMeshRef3.jpg",
-    "Picture/Buildings/Towers.png",
-    "A_Term and Findable/Tags.md",
     "ReFarmer_GDD/All Assets/Assets.K.md",
-    "ReFarmer_GDD/AI/AI Bug, Worklist.K.md",
-    "ReFarmer_GDD/AI/Basic AI Template (AI).md",
-    "ReFarmer_GDD/All Assets/Assets Used.C.canvas",
-    "ReFarmer_GDD/Game Flow/Game Flow.C.canvas",
-    "ReFarmer_GDD/All Assets/Assets Used.md",
     "Wondering In Lands of ReFarmer.md",
-    "ReFarmer_GDD/Game Flow/Wave System.md",
-    "ReFarmer_GDD/Story Overview/The Story of Game (ReFarmer).md",
-    "Universe/Characters/the Emperor of The Beasts.md",
-    "Universe/Characters/Exo Ed Ereth.md",
     "Canvas.canvas",
-    "To Do list.md",
-    "ReFarmer_GDD/Game Flow/Initial Flow of ReFarmer.md",
-    "ReFarmer_GDD/Game Flow/Game Flow.md",
-    "ReFarmer_GDD/HUD system/HUD,UI Elements.C.canvas",
-    "ReFarmer_GDD/AI/Tower Attacker/Bear.md",
     "ReFarmer_GDD/Game Flow",
     "ReFarmer_GDD/AI/Unique Place AI",
     "ReFarmer_GDD/AI/Tower Attacker",
     "ReFarmer_GDD/AI/Melee",
     "ReFarmer_GDD/AI",
     "ReFarmer_GDD/Game Goals/Game Goals.C.canvas",
-    "ReFarmer_GDD/HUD system/UI Elements.md",
-    "ReFarmer_GDD/HUD system/HUD.md",
     "ReFarmer_GDD/Rewards and Economy/Whole Economy.C.canvas",
-    "ReFarmer_GDD/Story Overview/The Story of Game (ReFarmer).C.canvas",
-    "ReFarmer_GDD/Rewards and Economy/Whole Economy.md",
-    "ReFarmer_GDD/Game Controls/Game Controls.md",
-    "ReFarmer_GDD/Characters/Non-Active/NPC (ReFarmer).md",
-    "ReFarmer_GDD/Characters/Major/Obsidian.md",
-    "ReFarmer_GDD/Characters/Major/ReFarmer.md",
-    "ReFarmer_GDD/Characters/Major/Crow.md",
-    "Picture/Level/Map Main, Grassland.png",
-    "Universe/System.md",
-    "Picture/Level/Map.png",
     "ReFarmer_GDD/Game Levels/Place",
-    "Picture/Level/Scheme_DarkForest.png",
     "Picture/Skills",
     "Picture/Inventory",
     "Picture/Level"

@@ -1,1 +1,6 @@
-Before each wave we can wonder around, and this process that may help us on collecting resources that we can use in crafting buildings and farming purposes
+Before each wave we can wonder around, and this process that may help us on collecting resources that we can use in crafting buildings and farming purposes 
+
+
+If you want more information, check about [[Game Flow]]
+
+
